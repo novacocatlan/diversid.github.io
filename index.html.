@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #6a0dad; /* roxo da marca */
+      background: #6a0dad; /* amarelo da marca */
       color: #fff;
       display: flex;
       align-items: center;
@@ -43,9 +43,9 @@
   </style>
 </head>
 <body>
-  <h1>🚀 Divers ID</h1>
-  <p>Estamos preparando algo incrível!<br>Acompanhe pelas nossas redes:</p>
-  <a href="https://instagram.com/nova_cocatlan" target="_blank">📸 Instagram</a>
-  <a href="https://wa.me/551143063100" target="_blank">💬 WhatsApp</a>
+  <h1> Nova Cocatlan Auto Peças ID</h1>
+  <p>Em construção... !<br>Acompanhe pelas nossas redes:</p>
+  <a href="https://instagram.com/nova_cocatlan" target="_blank"> Instagram</a>
+  <a href="https://wa.me/551143063100" target="_blank"> WhatsApp</a>
 </body>
 </html>
